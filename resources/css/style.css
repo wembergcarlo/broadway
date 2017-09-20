@@ -6,6 +6,8 @@ body{
 .header {
 color: white;
 background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+background-repeat:no-repeat;
+background-size:cover;
 }
 .header a{
   font-size: 18px;
@@ -27,8 +29,16 @@ background-image: url("https://s3.amazonaws.com/codecademy-content/programs/free
   font-size: 14px;
 }
 .lmiddle h2{
-background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  background-repeat:no-repeat;
+  background-size:cover;
 font-size: 23px;
 font-weight: bold;
 color: white;
+}
+.footer{
+  font-size: 11px;
+  color: white;
+  text-align: left;
+  background-color: dimgray;
 }
