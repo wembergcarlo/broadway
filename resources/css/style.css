@@ -5,7 +5,7 @@ body{
 }
 .header {
 color: white;
-background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+background-image: url(the-flatiron-building[1].png);
 background-repeat:no-repeat;
 background-size:cover;
 }
@@ -29,7 +29,7 @@ background-size:cover;
   font-size: 14px;
 }
 .lmiddle h2{
-  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  background-image: url(the-flatiron-building[1].png);
   background-repeat:no-repeat;
   background-size:cover;
 font-size: 23px;
