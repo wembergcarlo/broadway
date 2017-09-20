@@ -14,4 +14,14 @@ background-image: url("https://s3.amazonaws.com/codecademy-content/programs/free
   font-size: 70px;
   font-weight: bold;
   }
+.middle h2{
+  font-size: 32px;
+  font-weight: 32px;
+}
+.middle h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+.middle p{
+  font-size: 14px;
 }
